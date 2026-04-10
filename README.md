@@ -13,19 +13,19 @@ Demonstrate understanding of vibe coding workflow
 Prompt Creation
 
 Generated a landing page with:
-My name
-A subtitle
-A button labeled “View My Projects”
-AI Generation
-Used Lovable to create the initial design and layout
-Customization
-Adjusted layout and color theme using Lovable’s UI tools
-Export & Editing
-Exported the project files
-Opened in a code editor (Cursor/VS Code)
+1. My name
+2. A subtitle
+3. A button labeled “View My Projects”
+4. AI Generation
+5. Used Lovable to create the initial design and layout
+6. Customization
+7. Adjusted layout and color theme using Lovable’s UI tools
+8. Export & Editing
+9. Exported the project files
+10. Opened in a code editor (Cursor/VS Code)
 
 Manual Improvement
-Modified styling (e.g., font, spacing, or alignment) to enhance UI/UX
+Modified styling ( font, spacing, and alignment) to enhance UI/UX
 
 ✨ Features
 Hero section with clear personal branding
@@ -35,6 +35,7 @@ Custom color theme
 Improved styling through manual edits
 
 🛠️ Technologies Used
+
 Lovable (AI UI generator)
 HTML
 CSS
